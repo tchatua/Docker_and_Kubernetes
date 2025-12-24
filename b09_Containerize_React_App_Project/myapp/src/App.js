@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome 247 D to Maple Shade.
+          Hello from BRAND NEW Nginx.
         </p>
         <a
           className="App-link"
